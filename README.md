@@ -1,19 +1,20 @@
-# Hi there, I'm Umera Shaikh! 👋
+# Hi there, I'm Pranav Shinde! 👋
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Penetration+Testing+Intern;CTF+Player+%40+CodeBloodedSibs;CSE+Data+Science+Student;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;CTF+Player+%40+CodeBloodedSibs;OSINT+Specialist;CSE+Data+Science+Student;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
 - 🎓 **CSE Data Science** student at Vidyavardhini's College of Engineering and Technology, Mumbai
-- 🛡️ **Cybersecurity & Penetration Testing Intern** at Hacktify Cyber Security
+- 📊 **CGPA: 8.02** - Academic Excellence in Computer Science & Data Science
 - 🏆 Active **CTF Player** with Team [CodeBloodedSibs](https://ctftime.org/team/393834)
-- 🔍 Currently pursuing **Honours in Cybersecurity** at Mumbai University
+- 🔍 **OSINT Specialist** - Advanced Open Source Intelligence techniques
+- 🛡️ Currently pursuing **Honours in Cybersecurity** at Mumbai University
 - 📚 Learning **Data Structures & Algorithms** and **CS50's Introduction to Cybersecurity**
-- 👥 **Deputy PR Head** at Computer Society of India (CSI) & **Deputy Media Head** at Literati Club
+- 👥 **Deputy Admin Head** at Computer Society of India (CSI) & Literati Club
 
 ---
 
@@ -38,48 +39,36 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### Cybersecurity
+### Cybersecurity & OSINT
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-FF6B6B?style=for-the-badge&logo=searchengineland&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 CTF Achievements & Certifications
 
 <div align="center">
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umeraa&repo=airline-refund-checker&theme=radical" />
-</a>
+[![CTF Certificates](https://img.shields.io/badge/🏆_CTF_Certificates-View_Collection-orange?style=for-the-badge)](https://github.com/PranavObliterates/PranavObliterates/tree/main/CTFs)
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umeraa&repo=library-management-system&theme=radical" />
-</a>
-
-</div>
-
-### 🎯 Current Projects
-- **Airline Refund Confidence Checker** - Chrome extension with ML-powered refund prediction
-- **Library Management System** - Full-stack web application with authentication & role-based access
-
----
-
-## 🏆 Achievements & Experience
-
-<div align="center">
-
-### 🛡️ Cybersecurity Journey
+### 🎯 CTF Journey
 ```
-🎯 6+ CTF Competitions Participated
-🏅 Certified Penetration Tester (Hacktify - Certificate ID: txctajgh66)
-🔍 OSINT Course Graduate (CyberSecuredIndia)
-💼 Cybersecurity Simulations: Mastercard, TCS, Commonwealth Bank, Deloitte
+🏁 6+ CTF Competitions Participated
+📜 CTF Certificates Collection Available
+🔐 Expertise in: Cryptography, Web Security, Forensics, Reverse Engineering
+🥇 Active Team Member: CodeBloodedSibs
 ```
 
 </div>
+
+### 🛡️ Cybersecurity Experience
+- **🔍 OSINT Specialist** - Advanced information gathering & analysis techniques
+- **💼 Industry Simulations**: Mastercard, TCS, Commonwealth Bank, Deloitte
+- **🎓 CyberSecuredIndia**: 4-week intensive OSINT course graduate
+- **📚 Honours Program**: Cybersecurity specialization at Mumbai University
 
 ---
 
@@ -87,15 +76,15 @@
 
 <div align="center">
   
-  ![Umera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umeraa&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavObliterates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umeraa&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavObliterates&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umeraa&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavObliterates&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -106,17 +95,39 @@
 <div align="center">
 
 [![CTFTime](https://img.shields.io/badge/CTFTime-CodeBloodedSibs-orange?style=for-the-badge&logo=ctftime)](https://ctftime.org/team/393834)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/umeraintern)
+[![CTF Certs](https://img.shields.io/badge/CTF_Certificates-Collection-red?style=for-the-badge&logo=github)](https://github.com/PranavObliterates/PranavObliterates/tree/main/CTFs)
 
 </div>
 
 ```
-🏁 Recent CTF Participations:
-   ├── Web Security Challenges
-   ├── Cryptography Puzzles  
-   ├── Reverse Engineering
-   └── Digital Forensics
+🏁 Recent CTF Specializations:
+   ├── 🔐 Cryptography Challenges
+   ├── 🌐 Web Application Security  
+   ├── 🔍 Digital Forensics
+   ├── 🔄 Reverse Engineering
+   └── 🕵️ OSINT Investigations
 ```
+
+---
+
+## 💼 Current Projects & Learning
+
+<div align="center">
+
+### 🚀 Active Development
+```
+🛡️ Airline Refund Confidence Checker (Chrome Extension)
+   ├── JavaScript + Chrome APIs
+   ├── Web scraping & ML algorithms
+   └── Real-time policy analysis
+
+📚 Library Management System
+   ├── Full-stack web application
+   ├── MySQL database integration
+   └── Role-based authentication
+```
+
+</div>
 
 ---
 
@@ -124,8 +135,28 @@
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umeraa&theme=react-dark&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&theme=tokyo-night&hide_border=true)
   
+</div>
+
+---
+
+## 🎯 Skill Highlights
+
+<div align="center">
+
+### 🔍 OSINT Expertise
+- **Social Media Intelligence** 🕵️‍♂️
+- **Digital Forensics** 🔍
+- **Information Gathering** 📊
+- **Threat Intelligence** 🛡️
+
+### 💻 Development Skills
+- **Full-Stack Development** 🌐
+- **Chrome Extension Development** 🔧
+- **Database Management** 💾
+- **Algorithm Implementation** ⚡
+
 </div>
 
 ---
@@ -134,9 +165,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umera-codes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umeraa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeraintern@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-codes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavObliterates)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavdoesinternships@gmail.com)
 [![CTFTime](https://img.shields.io/badge/CTFTime-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/393834)
 
 </div>
@@ -145,9 +176,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Umeraa&style=for-the-badge&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=PranavObliterates&style=for-the-badge&color=blue)
   
-  ### 💭 *"Security is not a product, but a process"* 🔐
+  ### 💭 *"In OSINT we trust, in CTFs we excel"* 🔍
   
 </div>
 
@@ -157,22 +188,48 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 📈 Contribution Timeline
+## 📈 Learning & Achievement Timeline
 
 <div align="center">
   
   ```
-  2024  🎯 Started cybersecurity journey
+  2024  🎯 Started cybersecurity specialization
     │   🏆 Joined CodeBloodedSibs CTF team  
-    │   🛡️ Completed penetration testing internship
-    │   📚 Pursuing honours in cybersecurity
+    │   🔍 OSINT course completion
+    │   📊 Achieving 8.02 CGPA in CSE-DS
     │   
-  2025  🚀 Advanced project development
-    │   👥 Leadership roles in college clubs
-    │   🔍 Advanced OSINT training
-    │   ⚡ Open source contributions
+  2025  🚀 Advanced skill development
+    │   👥 Leadership roles in college organizations
+    │   🛡️ Honours in Cybersecurity program
+    │   ⚡ Open source contributions & project development
     │
-  Future 🌟 Aiming for cybersecurity excellence!
+  Future 🌟 Aiming for cybersecurity & data science excellence!
   ```
   
+</div>
+
+---
+
+## 🎪 Fun Facts
+
+<div align="center">
+
+```python
+class PranavShinde:
+    def __init__(self):
+        self.name = "Pranav Shinde"
+        self.role = "Cybersecurity Enthusiast & CTF Player"
+        self.location = "Mumbai, India"
+        self.education = "CSE Data Science @ VCET"
+        self.cgpa = 8.02
+        self.interests = ["OSINT", "CTFs", "Data Science", "Web Development"]
+        self.ctf_team = "CodeBloodedSibs"
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
+
+me = PranavShinde()
+me.say_hi()
+```
+
 </div>
