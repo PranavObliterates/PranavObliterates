@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Shinde! 👋
+# Hey there, I'm Pranav Shinde! 👋
 
 <div align="center">
 
