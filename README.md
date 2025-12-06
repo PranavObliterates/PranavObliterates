@@ -56,7 +56,7 @@
 
 ### 🎯 CTF Journey
 ```
-🏁 6+ CTF Competitions Participated
+🏁 20+ CTF Competitions Participated
 📜 CTF Certificates Collection Available
 🔐 Expertise in: Cryptography, Web Security, Forensics, Reverse Engineering
 🥇 Active Team Member: CodeBloodedSibs
