@@ -112,6 +112,9 @@ for area, detail in current_focus.items():
 
 <br>
 
+
+<br>
+
 ## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Eyes.png" width="28"> &nbsp;Featured Projects
 
 <table>
