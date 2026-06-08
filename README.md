@@ -101,17 +101,13 @@ for area, detail in current_focus.items():
    ├── 🔄 Reverse Engineering
    └── 🛡️ Blue Team / Incident Response
 
-💼 Industry Simulations:
-   ├── Mastercard    ├── TCS
-   ├── Deloitte      └── Commonwealth Bank
-
 🎓 Certifications:
    ├── CyberSecuredIndia — 4-week OSINT Course
+   ├── Secured Bharat Group — Detect & Defend
+   ├── Secured Bharat Group — Code: Breach
+   ├── VECTOR Certification
    └── Honours in Cybersecurity — Mumbai University
 ```
-
-<br>
-
 
 <br>
 
