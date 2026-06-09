@@ -191,8 +191,6 @@ for area, detail in current_focus.items():
 
 <div align="center">
 
-<div style="display: flex; justify-content: center;">
-
 ```python
 class PranavShinde:
     def __init__(self):
@@ -206,8 +204,6 @@ class PranavShinde:
 
 PranavShinde().say_hi()
 ```
-
-</div>
 
 </div>
 
