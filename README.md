@@ -4,7 +4,7 @@
 
 # Hey, I'm Pranav Shinde
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+--verbose;Security+Researcher+%7C+CTF+Player;Blue+Team+%C2%B7+SOC+%C2%B7+SIEM;OSINT+Specialist+%40+CodeBloodedSibs;Final+Year+CSE+%7C+Mumbai+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+--v[...]
 
 <br>
 
@@ -166,7 +166,7 @@ for area, detail in current_focus.items():
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4FF0D0&point=ffffff&area_color=4FF0D0&hide_border=true" height="300" alt="activity-graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4[...]
 
 </div>
 
@@ -182,6 +182,7 @@ for area, detail in current_focus.items():
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/pranavshinde04)
 [![CTFTime](https://img.shields.io/badge/CTFTime-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/393834)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pranav_shinde)
+[![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=for-the-badge&logo=shield&logoColor=white)](https://kc7cyber.com/profile/Arceus)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavdoesinternships@gmail.com)
 
 </div>
