@@ -4,7 +4,7 @@
 
 # Hey, I'm Pranav Shinde
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+--v[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+[...];%24+penetration+tester;%24+CTF+Player;%24+SOC+Operator;%24+OSINT+Specialist)](https://github.com/PranavObliterates)
 
 <br>
 
@@ -166,7 +166,7 @@ for area, detail in current_focus.items():
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4[...]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4FF0D0&point=4FF0D0&hide_border=true" alt="Contribution Graph">
 
 </div>
 
