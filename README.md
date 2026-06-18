@@ -4,11 +4,11 @@
 
 # Hey, I'm Pranav Shinde
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+[...];%24+penetration+tester;%24+CTF+Player;%24+SOC+Operator;%24+OSINT+Specialist)](https://github.com/PranavObliterates)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+[...]
 
 <br>
 
-<a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_9%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_7%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 <a href="https://ctftime.org/team/393834"><img src="https://img.shields.io/badge/CTFTime-CodeBloodedSibs-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime"></a>
 <a href="https://www.credly.com/users/pranav_shinde"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 
@@ -24,7 +24,7 @@
 ├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
-├── 🏁  25+ CTFs Played · Top 9% TryHackMe · 100+ Labs
+├── 🏁  25+ CTFs Played · Top 7% TryHackMe · 100+ Labs
 ├── 🔍  OSINT Specialist · MITRE ATT&CK Framework
 ├── 👥  Deputy Admin Head @ CSI & Literati Club
 │
@@ -75,7 +75,7 @@ current_focus = {
     "📖 reading":    "Computer Networks — Andrew Tanenbaum",
     "🧠 framework":  "MITRE ATT&CK",
     "🔧 building":   "SIEM detection rules & SOC workflows",
-    "🏁 platform":   "TryHackMe → Top 9% and climbing",
+    "🏁 platform":   "TryHackMe → Top 7% and climbing",
     "🎯 next_goal":  "Offensive Security certifications"
 }
 
@@ -152,7 +152,7 @@ for area, detail in current_focus.items():
 > Completed **100+ TryHackMe labs** focused on SOC operations, SIEM, log analysis, and incident response workflows.
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=88cc14)
-![Top 9%](https://img.shields.io/badge/Top_9%25-88cc14?style=flat-square)
+![Top 7%](https://img.shields.io/badge/Top_7%25-88cc14?style=flat-square)
 
 </td>
 </tr>
