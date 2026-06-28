@@ -24,7 +24,7 @@
 ├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
-├── 🏁  25+ CTFs Played · Top 7% TryHackMe · 100+ Labs
+├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 100+ Labs
 ├── 🔍  OSINT Specialist · MITRE ATT&CK Framework
 ├── 👥  Deputy Admin Head @ CSI & Literati Club
 │
@@ -75,7 +75,7 @@ current_focus = {
     "📖 reading":    "Computer Networks — Andrew Tanenbaum",
     "🧠 framework":  "MITRE ATT&CK",
     "🔧 building":   "SIEM detection rules & SOC workflows",
-    "🏁 platform":   "TryHackMe → Top 7% and climbing",
+    "🏁 platform":   "TryHackMe → Top 5% and climbing",
     "🎯 next_goal":  "Offensive Security certifications"
 }
 
