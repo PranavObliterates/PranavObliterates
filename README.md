@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_9%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 <a href="https://ctftime.org/team/393834"><img src="https://img.shields.io/badge/CTFTime-CodeBloodedSibs-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime"></a>
 <a href="https://www.credly.com/users/pranav_shinde"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 
@@ -152,7 +152,7 @@ for area, detail in current_focus.items():
 > Completed **100+ TryHackMe labs** focused on SOC operations, SIEM, log analysis, and incident response workflows.
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=88cc14)
-![Top 9%](https://img.shields.io/badge/Top_9%25-88cc14?style=flat-square)
+![Top 5%](https://img.shields.io/badge/Top_5%25-88cc14?style=flat-square)
 
 </td>
 </tr>
