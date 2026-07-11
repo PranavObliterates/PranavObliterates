@@ -128,25 +128,15 @@ for area, detail in current_focus.items():
 </td>
 <td width="50%" valign="top">
 
-### 🏁 CTF Toolkit & Writeups
-> Detailed writeups, walkthroughs, and custom automation tools built across **25+ CTF competitions** with CodeBloodedSibs.
-
-![Crypto](https://img.shields.io/badge/Crypto-8B5CF6?style=flat-square)
-![Web](https://img.shields.io/badge/Web-06B6D4?style=flat-square)
-![OSINT](https://img.shields.io/badge/OSINT-FF6B6B?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦈 KC7 Cyber Analysis
+### 🦈 KC7 - Kusto Query Language
 > Ranked **Top 400 out of 146K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
 
 ![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=flat-square)
 ![Rank](https://img.shields.io/badge/Rank-Top_400-4FF0D0?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔵 SOC & Blue Team Labs
@@ -155,6 +145,9 @@ for area, detail in current_focus.items():
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=88cc14)
 ![Top 5%](https://img.shields.io/badge/Top_5%25-88cc14?style=flat-square)
 
+</td>
+<td width="50%" valign="top">
+<!-- Keep empty for layout balance -->
 </td>
 </tr>
 </table>
