@@ -4,11 +4,12 @@
 
 # Hey, I'm Pranav Shinde
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=%24+whoami+[...];%24+penetration+tester;%24+CTF+Player;%24+SOC+Operator;%24+OSINT+Specialist)](https://github.com/PranavObliterates)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=Threat+Hunter;SOC+Analyst;Elastic;Splunk;CTF+Player;OSINT;Threat+Intelligence;Risk+Assessment)](https://github.com/PranavObliterates)
 
 <br>
 
 <a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="https://kc7cyber.com/profile/Arceus"><img src="https://img.shields.io/badge/KC7_Cyber-Top_400-1F77B4?style=for-the-badge&logo=target&logoColor=white" alt="KC7 Cyber"></a>
 <a href="https://ctftime.org/team/393834"><img src="https://img.shields.io/badge/CTFTime-CodeBloodedSibs-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime"></a>
 <a href="https://www.credly.com/users/pranav_shinde"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 
@@ -18,14 +19,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Nerd%20Face.png" width="28"> &nbsp;About Me
 
-```
+```text
 ┌──(pranav㉿kali)-[~/about]
 │
 ├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
+├── 🦈  KC7 Cyber · Top 400 out of 146K+ Users Globally
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
 ├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 100+ Labs
-├── 🔍  OSINT Specialist · MITRE ATT&CK Framework
+├── 🔍  OSINT Specialist · MITRE ATT&CK Framework · OWASP TOP 10
 ├── 👥  Deputy Admin Head @ CSI & Literati Club
 │
 └── ⚡  "Building, breaking, and researching things."
@@ -76,7 +78,7 @@ current_focus = {
     "🧠 framework":  "MITRE ATT&CK",
     "🔧 building":   "SIEM detection rules & SOC workflows",
     "🏁 platform":   "TryHackMe → Top 5% and climbing",
-    "🎯 next_goal":  "Offensive Security certifications"
+    "🎯 next_goal":  "COMPTIA Security+ certification"
 }
 
 for area, detail in current_focus.items():
@@ -93,25 +95,24 @@ for area, detail in current_focus.items():
 
 </div>
 
-```
+```text
 🏁 CTF Domains:
    ├── 🔐 Cryptography
    ├── 🌐 Web Application Security
    ├── 🔍 Digital Forensics & OSINT
-   ├── 🔄 Reverse Engineering
    └── 🛡️ Blue Team / Incident Response
 
 🎓 Certifications:
    ├── CyberSecuredIndia — 4-week OSINT Course
    ├── Secured Bharat Group — Detect & Defend
    ├── Secured Bharat Group — Code: Breach
-   ├── VECTOR Certification
+   ├── CyberSecuredIndia & Vulnshields - VECTOR: Where Systems Collapse
    └── Honours in Cybersecurity — Mumbai University
 ```
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Eyes.png" width="28"> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Eyes.png" width="28"> &nbsp;Featured Highlights
 
 <table>
 <tr>
@@ -128,7 +129,7 @@ for area, detail in current_focus.items():
 <td width="50%" valign="top">
 
 ### 🏁 CTF Toolkit & Writeups
-> Custom recon scripts, solve writeups, and automation tools built across **25+ CTF competitions** with CodeBloodedSibs.
+> Detailed writeups, walkthroughs, and custom automation tools built across **25+ CTF competitions** with CodeBloodedSibs.
 
 ![Crypto](https://img.shields.io/badge/Crypto-8B5CF6?style=flat-square)
 ![Web](https://img.shields.io/badge/Web-06B6D4?style=flat-square)
@@ -139,11 +140,11 @@ for area, detail in current_focus.items():
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Open Source Contributions
-> **5+ contributions** to cybersecurity community tools and projects. Active participant in open source security ecosystem.
+### 🦈 KC7 Cyber Analysis
+> Ranked **Top 400 out of 146K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
 
-![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
-![Contributions](https://img.shields.io/badge/5+-Merged-28c840?style=flat-square)
+![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=flat-square)
+![Rank](https://img.shields.io/badge/Rank-Top_400-4FF0D0?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -160,13 +161,15 @@ for area, detail in current_focus.items():
 
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Thin.gif" width="100%">
 
-
-
-## 🌟 Contribution Graph
+## 📊 Performance & Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4FF0D0&point=4FF0D0&hide_border=true" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4FF0D0&point=4FF0D0&hide_border=true" alt="Contribution Graph" width="100%">
+
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavObliterates&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
