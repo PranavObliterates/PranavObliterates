@@ -4,12 +4,12 @@
 
 # Hey, I'm Pranav Shinde
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=Threat+Hunter;SOC+Analyst;Elastic;Splunk;CTF+Player;OSINT;Threat+Intelligence;Risk+Assessment)](https://github.com/PranavObliterates)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=Threat+Hunter;SOC+Analyst;Elastic;Splunk;CTF+Player;OSINT;Threat+Intelligence;Risk+Assessment)](https://github.com/PranavObliterates)
 
 <br>
 
 <a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-<a href="https://kc7cyber.com/profile/Arceus"><img src="https://img.shields.io/badge/KC7_Cyber-Top_300-1F77B4?style=for-the-badge&logo=target&logoColor=white" alt="KC7 Cyber"></a>
+<a href="https://kc7cyber.com/profile/Arceus"><img src="https://img.shields.io/badge/KC7_Cyber-Top_200-1F77B4?style=for-the-badge&logo=target&logoColor=white" alt="KC7 Cyber"></a>
 <a href="https://ctftime.org/team/393834"><img src="https://img.shields.io/badge/CTFTime-CodeBloodedSibs-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime"></a>
 <a href="https://www.credly.com/users/pranav_shinde"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 
@@ -24,7 +24,7 @@
 │
 ├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
-├── 🦈  KC7 Cyber · Top 300 out of 146K+ Users Globally
+├── 🦈  KC7 Cyber · Top 200 out of 146K+ Users Globally
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
 ├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 100+ Labs
 ├── 🔍  OSINT Specialist · MITRE ATT&CK Framework · OWASP TOP 10
@@ -129,10 +129,10 @@ for area, detail in current_focus.items():
 <td width="50%" valign="top">
 
 ### 🦈 KC7 - Kusto Query Language
-> Ranked **Top 300 out of 146K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
+> Ranked **Top 200 out of 146K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
 
 ![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=flat-square)
-![Rank](https://img.shields.io/badge/Rank-Top_300-4FF0D0?style=flat-square)
+![Rank](https://img.shields.io/badge/Rank-Top_200-4FF0D0?style=flat-square)
 
 </td>
 </tr>
