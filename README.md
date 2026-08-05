@@ -129,7 +129,7 @@ for area, detail in current_focus.items():
 <td width="50%" valign="top">
 
 ### 🦈 KC7 - Kusto Query Language
-> Ranked **Top 200 out of 146K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
+> Ranked **Top 200 out of 150+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
 
 ![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=flat-square)
 ![Rank](https://img.shields.io/badge/Rank-Top_200-4FF0D0?style=flat-square)
