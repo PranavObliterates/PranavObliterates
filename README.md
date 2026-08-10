@@ -24,7 +24,7 @@
 │
 ├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
-├── 🦈  KC7 Cyber · Top 180 out of 150K+ Users Globally
+├── 🦈  KC7 Cyber · Top 170 out of 150K+ Users Globally
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
 ├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 125+ Labs
 ├── 🔍  OSINT Specialist · MITRE ATT&CK Framework · OWASP TOP 10
