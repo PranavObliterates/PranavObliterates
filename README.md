@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://tryhackme.com/p/pranavshinde04"><img src="https://img.shields.io/badge/TryHackMe-Top_5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-<a href="https://kc7cyber.com/profile/Arceus"><img src="https://img.shields.io/badge/KC7_Cyber-Top_180-1F77B4?style=for-the-badge&logo=target&logoColor=white" alt="KC7 Cyber"></a>
+<a href="https://kc7cyber.com/profile/Arceus"><img src="https://img.shields.io/badge/KC7_Cyber-Top_170-1F77B4?style=for-the-badge&logo=target&logoColor=white" alt="KC7 Cyber"></a>
 <a href="https://ctftime.org/team/393834"><img src="https://img.shields.io/badge/CTFTime-CodeBloodedSibs-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime"></a>
 <a href="https://www.credly.com/users/pranav_shinde"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 
