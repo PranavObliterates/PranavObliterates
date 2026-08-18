@@ -26,7 +26,7 @@
 ├── 🛡️  Honours in Cybersecurity · Mumbai University
 ├── 🦈  KC7 Cyber · Top 170 out of 150K+ Users Globally
 ├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
-├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 125+ Labs
+├── 🏁  25+ CTFs Played · Top 5% TryHackMe · 135+ Labs
 ├── 🔍  OSINT Specialist · MITRE ATT&CK Framework · OWASP TOP 10
 ├── 👥  Deputy Admin Head @ CSI & Literati Club
 │
