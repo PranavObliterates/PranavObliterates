@@ -140,7 +140,7 @@ for area, detail in current_focus.items():
 <td width="50%" valign="top">
 
 ### 🔵 SOC & Blue Team Labs
-> Completed **110+ TryHackMe labs** focused on SOC operations, SIEM, log analysis, and incident response workflows.
+> Completed **120+ TryHackMe labs** focused on SOC operations, SIEM, log analysis, and incident response workflows.
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=88cc14)
 ![Top 5%](https://img.shields.io/badge/Top_5%25-88cc14?style=flat-square)
