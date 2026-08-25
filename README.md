@@ -15,59 +15,49 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Thin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:172030,100:4FF0D0" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Nerd%20Face.png" width="28"> &nbsp;About Me
+## `// about`
 
 ```text
-┌──(pranav㉿kali)-[~/about]
-│
-├── 🎓  Final Year · B.E. CSE (Data Science) @ VCET, Mumbai
-├── 🛡️  Honours in Cybersecurity · Mumbai University
-├── 🦈  KC7 Cyber · Top 170 out of 150K+ Users Globally
-├── 🔵  Blue Team · SOC Operations · SIEM · Threat Intel
-├── 🏁  25+ CTFs Played · Top 4% TryHackMe · 135+ Labs
-├── 🔍  OSINT Specialist · MITRE ATT&CK Framework · OWASP TOP 10
-├── 👥  Deputy Admin Head @ CSI & Literati Club
-│
-└── ⚡  "Building, breaking, and researching things."
+┌──(pranav㉿kali)-[~]
+└─$ cat about.txt
+
+name        : Pranav Shinde
+location    : Mumbai, India
+education   : B.E. CSE (Data Science) @ VCET
+honours     : Cybersecurity — Mumbai University
+kc7         : Top 170 of 150K+ users globally
+role        : Deputy Admin Head @ CSI & Literati Club
+focus       : Blue Team · SOC Operations · SIEM · Threat Intel
+track_record: 25+ CTFs played · Top 4% TryHackMe · 135+ labs solved
+specialty   : OSINT · MITRE ATT&CK Framework · OWASP Top 10
+status      : building, breaking, and researching things.
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:172030,100:4FF0D0" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Flame.png" width="28"> &nbsp;Tech Stack
+## `// tech_stack`
 
 <div align="center">
 
-#### 🔐 Security Arsenal
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+**Security Arsenal**
 
-#### 💻 Languages & Dev
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
-#### ☁️ Tools & Platforms
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Languages, Dev &amp; Platforms**
+
+[![Skills](https://skillicons.dev/icons?i=py,bash,js,cpp,java,html,css,git,mysql,linux,vscode,aws,gcp&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Thin.gif" width="100%">
+<br>
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rocket.png" width="28"> &nbsp;Currently Learning
+## `// currently_learning`
 
 ```python
 #!/usr/bin/env python3
@@ -78,7 +68,7 @@ current_focus = {
     "🧠 framework":  "MITRE ATT&CK",
     "🔧 building":   "SIEM detection rules & SOC workflows",
     "🏁 platform":   "TryHackMe → Top 5% and climbing",
-    "🎯 next_goal":  "COMPTIA Security+ certification"
+    "🎯 next_goal":  "CompTIA Security+ certification"
 }
 
 for area, detail in current_focus.items():
@@ -87,39 +77,39 @@ for area, detail in current_focus.items():
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Star.png" width="28"> &nbsp;CTF & Cybersecurity
+## `// ctf_activity`
 
 <div align="center">
 
-[![CTF Certificates](https://img.shields.io/badge/🏆_CTF_Certificates-View_Collection-orange?style=for-the-badge)](https://github.com/PranavObliterates/PranavObliterates/tree/main/CTFs)
+[![CTF Certificates](https://img.shields.io/badge/🏆_CTF_Certificates-View_Collection-4FF0D0?style=for-the-badge&labelColor=0D1117)](https://github.com/PranavObliterates/PranavObliterates/tree/main/CTFs)
 
 </div>
 
 ```text
-🏁 CTF Domains:
+domains
    ├── 🔐 Cryptography
    ├── 🌐 Web Application Security
    ├── 🔍 Digital Forensics & OSINT
    └── 🛡️ Blue Team / Incident Response
 
-🎓 Certifications:
+certifications
    ├── CyberSecuredIndia — 4-week OSINT Course
    ├── Secured Bharat Group — Detect & Defend
    ├── Secured Bharat Group — Code: Breach
-   ├── CyberSecuredIndia & Vulnshields - VECTOR: Where Systems Collapse
+   ├── CyberSecuredIndia & Vulnshields — VECTOR: Where Systems Collapse
    └── Honours in Cybersecurity — Mumbai University
 ```
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Eyes.png" width="28"> &nbsp;Featured Highlights
+## `// featured_highlights`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ PySecure Scanner
-> Python library for scanning Flask & Django apps using **DAST & SAST** techniques. Detects common web vulnerabilities automatically.
+> Python library for scanning Flask &amp; Django apps using **DAST &amp; SAST** techniques. Detects common web vulnerabilities automatically.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -128,7 +118,7 @@ for area, detail in current_focus.items():
 </td>
 <td width="50%" valign="top">
 
-### 🦈 KC7 - Kusto Query Language
+### 🦈 KC7 — Kusto Query Language
 > Ranked **Top 150 out of 150K+ participants** globally. Focused on data-driven threat hunting, log analysis, and incident investigations.
 
 ![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=flat-square)
@@ -137,38 +127,38 @@ for area, detail in current_focus.items():
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-### 🔵 SOC & Blue Team Labs
+### 🔵 SOC &amp; Blue Team Labs
 > Completed **120+ TryHackMe labs** focused on SOC operations, SIEM, log analysis, and incident response workflows.
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=88cc14)
 ![Top 5%](https://img.shields.io/badge/Top_5%25-88cc14?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
-<!-- Keep empty for layout balance -->
-</td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Thin.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:172030,100:4FF0D0" width="100%">
 
-## 📊 Performance & Activity
+## `// performance`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=1a1b27&color=4FF0D0&line=4FF0D0&point=4FF0D0&hide_border=true" alt="Contribution Graph" width="100%">
+<img src="https://github-stats-extended.vercel.app/api?username=PranavObliterates&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FF0D0&icon_color=4FF0D0&text_color=C9D1D9" alt="GitHub Stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PranavObliterates&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FF0D0&text_color=C9D1D9" alt="Top Languages" height="165">
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=PranavObliterates&theme=dark&hide_border=true&background=0D1117&ring=4FF0D0&fire=4FF0D0&currStreakLabel=4FF0D0" alt="GitHub Streak" width="100%">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavObliterates&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavObliterates&radius=8&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=0D1117&color=4FF0D0&line=4FF0D0&point=ffffff&area_color=4FF0D0&hide_border=true" width="100%" alt="Contribution activity graph">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Thin.gif" width="100%">
+<sub>Live widgets computed from the real GitHub account — nothing here is hand-entered, so they stay accurate without upkeep.</sub>
 
-## <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Firm%20Handshake.png" width="28"> &nbsp;Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:172030,100:4FF0D0" width="100%">
+
+## `> connect --init`
 
 <div align="center">
 
@@ -178,7 +168,7 @@ for area, detail in current_focus.items():
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/pranavshinde04)
 [![CTFTime](https://img.shields.io/badge/CTFTime-FF6B35?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/team/393834)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pranav_shinde)
-[![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=for-the-badge&logo=shield&logoColor=white)](https://kc7cyber.com/profile/Arceus)
+[![KC7](https://img.shields.io/badge/KC7-Cyber-1F77B4?style=for-the-badge&logo=target&logoColor=white)](https://kc7cyber.com/profile/Arceus)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavdoesinternships@gmail.com)
 
 </div>
@@ -194,7 +184,7 @@ class PranavShinde:
         self.education = "CSE Data Science @ VCET"
         self.team      = "CodeBloodedSibs"
         self.motto     = "In OSINT we trust, in CTFs we excel."
-        
+
     def say_hi(self):
         print("Thanks for dropping by! Let's hack something together. 🔐")
 
@@ -203,10 +193,10 @@ PranavShinde().say_hi()
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:172030,100:4FF0D0" width="100%">
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Star%20Light%20Line.gif" width="100%">
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=PranavObliterates&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=PranavObliterates&style=flat-square&color=4FF0D0&label=PROFILE+VIEWS&labelColor=0D1117)
 
 </div>
