@@ -2,7 +2,7 @@
 
 ### `> whoami`
 
-# Hey, I'm Pranav Shinde
+# Hey, I'm Pranav Shi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=1000&color=4FF0D0&center=true&vCenter=true&random=false&width=550&lines=Threat+Hunting;SOC+Analyst;CTF+Player;OSINT;Threat+Intelligence;Risk+Assessment;Detection+Engineering)](https://github.com/PranavObliterates)
 
