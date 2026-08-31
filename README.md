@@ -27,7 +27,7 @@ name        : Pranav Shinde
 location    : Mumbai, India
 education   : B.E. CSE (Data Science) @ VCET
 honours     : Cybersecurity — Mumbai University
-kc7         : Top 160 of 150K+ users globally
+kc7         : Top 150 of 150K+ users globally
 role        : Deputy Admin Head @ CSI & Literati Club
 focus       : Blue Team · SOC Operations · SIEM · Threat Intel
 track_record: 25+ CTFs played · Top 4% TryHackMe · 135+ labs solved
