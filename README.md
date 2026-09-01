@@ -30,7 +30,7 @@ honours     : Cybersecurity — Mumbai University
 kc7         : Top 150 of 150K+ users globally
 role        : Deputy Admin Head @ CSI & Literati Club
 focus       : Blue Team · SOC Operations · SIEM · Threat Intel
-track_record: 25+ CTFs played · Top 4% TryHackMe · 135+ labs solved
+track_record: 25+ CTFs played · Top 4% TryHackMe · 140+ labs solved
 specialty   : OSINT · MITRE ATT&CK Framework · OWASP Top 10
 status      : building, breaking, and researching things.
 ```
